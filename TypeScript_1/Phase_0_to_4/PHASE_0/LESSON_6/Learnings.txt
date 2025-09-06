@@ -1,0 +1,6 @@
+| Term           | Definition                                                     |
+| -------------- | -------------------------------------------------------------- |
+| `T[]`          | An array of items of type `T`                                  |
+| `[T1, T2]`     | A tuple: fixed-length, position-based types                    |
+| Tuple Use Case | Useful when structure is **positional and ordered**            |
+| Array Use Case | Best when you have **variable-length lists** of the same shape |

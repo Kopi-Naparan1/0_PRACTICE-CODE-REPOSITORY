@@ -1,0 +1,24 @@
+=========================================
+Total valid contacts: 7
+
+---Domain Summary---
+gmail.com: 2
+yahoo.com: 1
+edu.ph: 1
+company.org: 1
+crypto.ai: 1
+protonmail.com: 1
+
+---Tags Summary---
+work: 3
+design: 1
+family: 1
+urgent: 1
+school: 1
+mentor: 1
+friend: 1
+hr: 1
+business: 1
+tech: 1
+finance: 1
+=========================================

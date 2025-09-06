@@ -1,0 +1,56 @@
+html {
+  text-align: center;
+  padding: 2rem;
+  background: black;
+  align-items: center;
+  height: 100vh;
+}
+
+header {
+  background: rgb(109, 103, 103);
+  border-radius: 15px;
+  border: none;
+  color: rgb(241, 235, 235);
+  box-shadow: 0 0 10px rgba(152, 158, 152, 0.3);
+  font-family: "Franklin Gothic Medium";
+  padding: 1.5rem;
+}
+
+body {
+  background: gray;
+  border-radius: 15px;
+  border: none;
+  color: rgb(241, 235, 235);
+  box-shadow: 0 0 50px rgba(194, 202, 194, 0.4);
+  font-family: "Franklin Gothic Medium";
+  padding: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  body {
+    font-size: 1.5rem;
+    margin-inline: auto;
+    padding: clamp(1rem, 3vw, 2rem);
+    font-size: clamp(1.5rem, 5vw, 3rem);
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    font-size: 2rem;
+  }
+}
+
+.add_button {
+  background: rgb(171, 165, 165);
+  padding: 10px 20px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(226, 229, 226, 0.1);
+  cursor: pointer;
+  transition: background 0.3s ease, box-shadow 0.3s ease;
+}
+
+.add_button:hover {
+  background: rgb(171, 165, 165);
+  box-shadow: 0 0 20px rgba(226, 229, 226, 0.5);
+}

@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+  padding: 40px;
+  text-align: center;
+}
+li {
+  list-style: none;
+  margin: 8px 0;
+}

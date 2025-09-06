@@ -1,0 +1,7 @@
+[
+    {"amount": 200, "category": "Transport", "notes": "Bus + Train"},
+    {"amount": 90, "category": "Food", "notes": "Brunch"},
+    {"amount": 100, "category": "Bills", "notes": "Electric"},
+    {"amount": "", "category": "Bills", "notes": ""},
+    {"amount": 310, "category": "Shopping", "notes": "Clothes"}
+]

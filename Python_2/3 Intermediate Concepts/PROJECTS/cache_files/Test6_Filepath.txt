@@ -1,0 +1,4 @@
+Documents\Notes\math_notes.txt
+Documents\Notes\science_notes.txt
+todo.txt
+shopping_list.txt

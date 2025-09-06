@@ -1,0 +1,162 @@
+/* =====================
+   ⚙️ RESET + BASE
+===================== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  transition: all 0.3s ease-in-out; /* smooth transitions for all elements */
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  font-family: "Segoe UI", "Roboto", sans-serif;
+  font-size: 1rem; /* base font size */
+  line-height: 1.5rem;
+  color: #ffe8d6; /* soft light text */
+  background: linear-gradient(
+    135deg,
+    #b7b7a4,
+    #a5a58d,
+    #6b705c,
+    #a5a58d
+  ); /* gradient background */
+}
+
+/* =====================
+   🔤 TYPOGRAPHY
+===================== */
+h1 {
+  font-size: clamp(1.5rem, 4vw, 2.5rem); /* responsive size */
+  text-align: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+/* =====================
+   🧱 LAYOUT + SECTIONS
+===================== */
+.container {
+  margin: 2rem auto;
+  max-width: 600px;
+  padding: 2rem;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border-radius: 0.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  text-align: center;
+}
+
+.container:hover {
+  transform: translateY(-2px);
+}
+
+.hidden {
+  display: none;
+}
+
+/* =====================
+   🧢 HEADER
+===================== */
+header {
+  background: #6b705c;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  text-align: center;
+  white-space: normal;
+  word-break: break-word;
+  line-height: 1rem;
+}
+
+/* =====================
+   INPUTS
+===================== */
+#countdownInput {
+  background: #6b705c;
+  color: #ffe8d6;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 0.5rem;
+  border: 1px solid #b0b3af;
+  box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  margin: 0.2rem;
+  transition: all 0.2s ease-in-out;
+}
+
+/* =====================
+   🖱 BUTTONS
+===================== */
+button {
+  background: #6b705c;
+  color: #ffe8d6;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 0.5rem;
+  border: 1px solid #b0b3af;
+  box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  margin: 0.2rem;
+  transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+  background-color: rgb(165, 165, 141); /* sky blue on hover */
+  transform: translateY(-2px);
+  color: #ffe8d6;
+  box-shadow: 0 6px 12px rgba(165, 165, 141, 0.15);
+  border: 2px #6b705c solid;
+}
+
+button:active {
+  transform: translateY(2px);
+  box-shadow: 0 3px 15px rgba(165, 165, 141, 0.552); /* green shade */
+}
+
+button:focus-visible {
+  outline: 3px dashed #d9dcd6; /* for accessibility */
+}
+
+/* =====================
+   🎯 SCROLLBAR STYLING
+===================== */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #ffe8d6;
+  border-radius: 4px;
+}
+
+/* =====================
+   📱 RESPONSIVE DESIGN
+===================== */
+@media (max-width: 480px) {
+  .container {
+    padding: 1rem;
+  }
+
+  header {
+    font-size: 1rem;
+  }
+
+  .section-primary,
+  .section-secondary {
+    padding: 1rem 0.5rem;
+  }
+
+  button {
+    width: 100%; /* full width for better touch experience */
+    font-size: 0.9rem;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+}

@@ -1,0 +1,10 @@
+Highest Purchase : $310 on shopping
+Notes            : Clothes
+Total Spent      : $1615
+
+Category Breakdown:
+food           : $405
+transport      : $280
+entertainment  : $220
+shopping       : $610
+bills          : $100

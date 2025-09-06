@@ -1,0 +1,158 @@
+===== SUMMARY =====
+HIGHEST TRANSACTION: SM Appliance : 8999
+
+---TAGS USAGE---: 
+
+food : 18
+fastfood : 8
+transport : 7
+commute : 1
+snacks : 10
+health : 4
+personal : 6
+school : 4
+supplies : 1
+medicine : 1
+shopping : 8
+electronics : 7
+home : 6
+entertainment : 3
+movies : 1
+coffee : 9
+work : 2
+groceries : 7
+clothing : 13
+utilities : 9
+internet : 1
+electricity : 1
+water : 1
+subscription : 8
+music : 3
+topup : 6
+transfer : 3
+finance : 5
+withdrawal : 3
+tools : 4
+office : 1
+dining : 3
+delivery : 7
+cloud : 1
+cheap : 1
+grill : 1
+thrift : 2
+mobile : 2
+pizza : 3
+breakfast : 1
+logistics : 1
+dessert : 2
+donuts : 1
+sports : 4
+fashion : 1
+load : 1
+bills : 2
+yogurt : 1
+drinks : 2
+milk tea : 2
+gifts : 1
+parking : 1
+decor : 1
+ads : 1
+
+
+---PRODUCTS EXCEEDED $1000---:
+
+Shopee : 1200
+Puregold : 1250
+Zalora : 1899
+Merlaco : 2200
+BPI Transfer : 5000
+BDO ATM : 2000
+Robinsons : 1350
+Metrobank : 4500
+SM Appliance : 8999
+Maya Wallet : 2000
+Toby's Sports : 2150
+Uniqlo : 1290
+SM Department Store : 1300
+Power Mac : 1899
+SM Supermarket : 1150
+BPI Online : 3000
+Robinsons Dept. Store : 1400
+S&R : 2900
+Zalora : 1250
+Globe Fiber : 1699
+PLDT : 1499
+BDO Bills Pay : 2500
+Toy Kingdom : 1200
+Nike Store : 3250
+Adidas : 3400
+Maya Transfer : 2000
+Landers : 1750
+SM Appliance : 5600
+Decathlon : 1120
+GrabPay : 1500
+Globe Telecom : 1200
+BDO ATM : 1500
+Landbank Bills : 3600
+Meralco : 2900
+
+
+---PRODUCTS WITH [food] TAG---:
+
+Shopee : 1200
+Lazada : 899
+Zalora : 1899
+SM Department Store : 1300
+Shopee : 600
+TikTok Shop : 289
+Lazada : 990
+Shopee : 890
+
+
+---PRODUCTS ABOVE $800: 
+
+Shopee : 1200
+Lazada : 899
+Puregold : 1250
+Zalora : 1899
+Globe Telecom : 999
+Merlaco : 2200
+BPI Transfer : 5000
+BDO ATM : 2000
+Landers : 980
+Robinsons : 1350
+Metrobank : 4500
+SM Appliance : 8999
+Maya Wallet : 2000
+Toby's Sports : 2150
+Uniqlo : 1290
+H&M : 999
+SM Department Store : 1300
+Power Mac : 1899
+SM Supermarket : 1150
+BPI Online : 3000
+BDO ATM : 1000
+Maya : 1000
+Bench : 899
+Robinsons Dept. Store : 1400
+S&R : 2900
+Zalora : 1250
+Globe Fiber : 1699
+PLDT : 1499
+BDO Bills Pay : 2500
+Toy Kingdom : 1200
+Nike Store : 3250
+Adidas : 3400
+Puregold : 980
+Maya Transfer : 2000
+Landers : 1750
+SM Appliance : 5600
+Decathlon : 1120
+Lazada : 990
+GrabPay : 1500
+Globe Telecom : 1200
+BDO ATM : 1500
+Landbank Bills : 3600
+Meralco : 2900
+Shopee : 890
+======================

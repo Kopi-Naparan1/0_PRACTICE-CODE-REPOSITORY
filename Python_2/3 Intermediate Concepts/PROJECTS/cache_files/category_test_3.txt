@@ -1,0 +1,10 @@
+ Food
+     Fruits
+         Citrus
+         Berries
+     Vegetables
+ Drinks
+     Alcoholic
+     Non-Alcoholic
+         Soda
+         Juice

@@ -1,0 +1,10 @@
+
+    Total number of feedback: 0
+    Total number of empty feedback: 25
+    
+    Longest feedback: {'name': 'Hazel', 'email': 'hazel@mail.com', 'feedback': 'The interface is intuitive and beautiful.'}
+    Shortest feedback: {'name': 'Vera', 'email': 'vera@mail.com', 'feedback': ''}
+    
+    Top 3 positive words on feedbacks: [('love', 4), ('good', 1), ('great', 1)]
+    Top 3 negative words on feedbacks: [('bug', 1)]
+    

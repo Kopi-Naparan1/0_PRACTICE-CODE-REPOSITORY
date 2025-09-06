@@ -1,0 +1,14 @@
+.section_1 {
+  background-color: #f0f0f0;
+}
+
+.h2 {
+  font-size: 2rem;
+}
+
+.p {
+  font-style: italic;
+  font-size: smaller;
+  padding: 0.9rem;
+  background-color: gray;
+}

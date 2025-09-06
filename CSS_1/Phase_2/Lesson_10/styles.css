@@ -1,0 +1,17 @@
+.tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  background: #f8f8f8;
+  padding: 1rem;
+  border-radius: 20px;
+}
+
+.tag {
+  background: #333;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 999px;
+  flex: 1 1 auto;
+  min-width: 120px;
+}

@@ -1,0 +1,10 @@
+Highest Purchase : $220 on entertainment
+
+Notes            : Movie
+
+Total Spent      : $495
+
+Category Breakdown:
+food           : $195
+transport      : $80
+entertainment  : $220

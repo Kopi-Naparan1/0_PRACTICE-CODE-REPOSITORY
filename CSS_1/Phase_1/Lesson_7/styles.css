@@ -1,0 +1,12 @@
+.section_1 {
+  border: 5px solid black;
+  padding: 20px;
+  font-family: "Times New Roman", Times, serif;
+  width: 200px;
+  margin: 30px;
+  background: #ddd;
+}
+
+* {
+  box-sizing: border-box;
+}

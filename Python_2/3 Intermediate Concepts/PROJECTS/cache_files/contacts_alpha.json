@@ -1,0 +1,10 @@
+[
+  {"name": "Alice Mendoza", "email": "alice@gmail.com", "tags": ["work", "design"], "phone": "+639171111111"},
+  {"name": "Bob Cruz", "email": "bob@yahoo.com", "tags": ["family", "urgent"], "phone": "09181234567"},
+  {"name": "Clara L.", "email": "clara@edu.ph", "tags": ["school", "mentor"], "phone": "09191234567"},
+  {"name": "Daniel Pardo", "email": "dan.pardo@gmail.com", "tags": ["friend"], "phone": "09171239999"},
+  {"name": "Eva Santos", "email": "eva@company.org", "tags": ["work", "hr"], "phone": "+639121234567"},
+  {"name": "", "email": "invalid@", "tags": ["unknown"], "phone": "000"},
+  {"name": "Fred", "email": "fred@crypto.ai", "tags": ["business", "tech"], "phone": "09181230000"},
+  {"name": "Gwen Dee", "email": "gwen@protonmail.com", "tags": ["finance", "work"], "phone": "09173334444"}
+]

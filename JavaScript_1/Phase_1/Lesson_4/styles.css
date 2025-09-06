@@ -1,0 +1,30 @@
+html {
+  text-align: center;
+  align-items: center;
+  background: rgb(250, 215, 98);
+}
+
+body {
+  background: rgb(247, 162, 14);
+  padding: 2rem;
+  border-radius: 25px;
+}
+
+.age {
+  background: rgb(240, 216, 173);
+  border-radius: 20px;
+  padding: 0.5rem;
+}
+
+.button {
+  background: rgb(240, 216, 173);
+  border-radius: 20px;
+  padding: 0.5rem;
+  cursor: pointer;
+  transition: background 0.3s ease, box-shadow 0.3s ease;
+}
+
+.button:hover {
+  background: rgb(227, 193, 129);
+  box-shadow: 0 0 20px, rgba(227, 193, 129, 0.2);
+}

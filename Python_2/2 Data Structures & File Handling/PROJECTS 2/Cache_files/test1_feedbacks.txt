@@ -1,0 +1,13 @@
+
+    Total number of feedback: 46
+    Total number of empty feedback: 4
+    
+    Longest feedback by: Charlie 42 characters:
+                        - I use it every day. It's become essential.
+                        
+    Shortest feedback: Olivia 15 characters:
+                        - Buggy and slow.
+    
+    Top 3 positive words on feedbacks: [('love', 7), ('awesome', 3), ('great', 2)]
+    Top 3 negative words on feedbacks: [('bugs', 1), ('hate', 1), ('popups', 1)]
+    

@@ -1,0 +1,33 @@
+{
+  "headlines": [
+    "Welcome {{name|Guest}}",
+    "Hello, {{name|Guest}}!",
+    "Welcome Nyro Kophalem",
+    "Hello, Nyro Kophalem!",
+    "Breaking News - War in Europe",
+    "AI Beats Human in Strategy Game",
+    "Python 4.0 Release Date Announced",
+    "Breaking News - War in Europe",
+    "AI Beats Human in Strategy Game",
+    "Python 4.0 Release Date Announced",
+    "Big Tech Layoffs This Quarter",
+    "Meta Fires 10,000 Workers",
+    "War Drives Up Cybersecurity Spending",
+    "Apple To Release AI-Powered Vision Glasses",
+    "Crypto Market Dips Again",
+    "Bitcoin Falls Below $25k",
+    "Regulators Crack Down on Altcoins",
+    "Investors Shift to Stablecoins",
+    "Breakthrough in AI-Generated Medicine",
+    "New Drug Designed Entirely by Neural Network",
+    "Python Powers Genomic Research Tools",
+    "Data Leaks Expose Global Spy Network",
+    "Anonymous Publishes 2TB of Government Files",
+    "Python Scripting Found in Spy Tools",
+    "Cyber War Escalates Across Borders",
+    "Welcome {{name}}",
+    "Hello, {{name}}!",
+    "Welcome Nyro Kophalem",
+    "Hello, Nyro Kophalem!"
+  ]
+}

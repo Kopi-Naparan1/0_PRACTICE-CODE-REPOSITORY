@@ -1,0 +1,47 @@
+{
+  "Projects": {
+    "Python": {
+      "main.py": null,
+      "helpers.py": null,
+      "README.md": null
+    },
+    "Web": {
+      "index.html": null,
+      "style.css": null,
+      "script.js": null
+    }
+  },
+  "Documents": {
+    "Notes": {
+      "math_notes.txt": null,
+      "science_notes.txt": null,
+      "essay.docx": null
+    },
+    "Books": {
+      "fiction": {
+        "1984.pdf": null,
+        "dune.epub": null
+      },
+      "nonfiction": {
+        "self_help.pdf": null
+      }
+    }
+  },
+  "Media": {
+    "Music": {
+      "rock": {
+        "nirvana.mp3": null,
+        "queen.mp3": null
+      },
+      "pop": {
+        "adele.mp3": null
+      }
+    },
+    "Videos": {
+      "vacation.mp4": null,
+      "birthday.mov": null
+    }
+  },
+  "todo.txt": null,
+  "shopping_list.txt": null
+}

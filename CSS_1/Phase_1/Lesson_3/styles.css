@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+}
+
+.subtitle {
+  color: gray;
+  font-style: italic;
+}
+
+.profile p {
+  padding: 1rem;
+}

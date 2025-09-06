@@ -1,0 +1,14 @@
+npm init -y
+npm install typescript --save-dev
+npx tsc --init
+
+
+npx tsc
+node dist/00_intro/01_typescript_basics.js
+
+npx ts-node src/00_intro/01_typescript_basics.ts
+
+npm install -D ts-node
+
+
+

@@ -1,0 +1,4 @@
+Term	Definition
+Literal Type	A type that allows only specific values ("admin", true, 3)
+Type Alias	A reusable named type (`type Role = "admin"
+Enum (vs Literal)	Enums can also do this but are more complex and less flexible in frontend work

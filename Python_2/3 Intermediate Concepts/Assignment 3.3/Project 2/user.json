@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Alice Johnson",
+        "age": 28,
+        "email": "alice.johnson@example.com",
+        "is_active": true
+    },
+    {
+        "name": "Charlie Lee",
+        "age": 22,
+        "email": "charlie.lee@example.com",
+        "is_active": true
+    },
+    {
+        "name": "Diana Patel",
+        "age": 45,
+        "email": "diana.patel@example.com",
+        "is_active": true
+    },
+    {
+        "name": "Fiona Garcia",
+        "age": 27,
+        "email": "fiona.garcia@example.com",
+        "is_active": true
+    },
+    {
+        "name": "George Adams",
+        "age": 39,
+        "email": "george.adams@example.com",
+        "is_active": true
+    },
+    {
+        "name": "Isaac Brown",
+        "age": 26,
+        "email": "isaac.brown@example.com",
+        "is_active": true
+    },
+    {
+        "name": "Julia Nguyen",
+        "age": 29,
+        "email": "julia.nguyen@example.com",
+        "is_active": true
+    }
+]

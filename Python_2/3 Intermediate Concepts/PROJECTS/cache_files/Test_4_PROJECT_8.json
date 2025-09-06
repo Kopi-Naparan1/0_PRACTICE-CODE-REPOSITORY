@@ -1,0 +1,201 @@
+[
+    {
+        "name": "Alice Mendoza",
+        "email": "alice@gmail.com",
+        "tags": [
+            "work",
+            "design"
+        ],
+        "phone": "+639171111111"
+    },
+    {
+        "name": "Bob Cruz",
+        "email": "bob@yahoo.com",
+        "tags": [
+            "family",
+            "urgent"
+        ],
+        "phone": "09181234567"
+    },
+    {
+        "name": "Clara L.",
+        "email": "clara@edu.ph",
+        "tags": [
+            "school",
+            "mentor"
+        ],
+        "phone": "09191234567"
+    },
+    {
+        "name": "Daniel Pardo",
+        "email": "dan.pardo@gmail.com",
+        "tags": [
+            "friend"
+        ],
+        "phone": "09171239999"
+    },
+    {
+        "name": "Eva Santos",
+        "email": "eva@company.org",
+        "tags": [
+            "work",
+            "hr"
+        ],
+        "phone": "+639121234567"
+    },
+    {
+        "name": "Fred",
+        "email": "fred@crypto.ai",
+        "tags": [
+            "business",
+            "tech"
+        ],
+        "phone": "09181230000"
+    },
+    {
+        "name": "Gwen Dee",
+        "email": "gwen@protonmail.com",
+        "tags": [
+            "finance",
+            "work"
+        ],
+        "phone": "09173334444"
+    },
+    {
+        "name": "Henry Labrador",
+        "email": "henry@startup.io",
+        "tags": [
+            "tech",
+            "business"
+        ],
+        "phone": "09175556666"
+    },
+    {
+        "name": "Isa Perez",
+        "email": "isa_perez@gmail.com",
+        "tags": [
+            "work"
+        ],
+        "phone": "09278889999"
+    },
+    {
+        "name": "Jake",
+        "email": "jake@dev.net",
+        "tags": [
+            "code",
+            "team"
+        ],
+        "phone": "09181119999"
+    },
+    {
+        "name": "Karen Dy",
+        "email": "karen@yahoo.com",
+        "tags": [
+            "marketing"
+        ],
+        "phone": "09171234444"
+    },
+    {
+        "name": "Liam C.",
+        "email": "liam@edu.ph",
+        "tags": [
+            "school",
+            "alumni"
+        ],
+        "phone": "09179998888"
+    },
+    {
+        "name": "Mike Drop",
+        "email": "mike@",
+        "tags": [
+            "test"
+        ],
+        "phone": "000"
+    },
+    {
+        "name": "Nina Ocampo",
+        "email": "nina@gmail.com",
+        "tags": [
+            "family",
+            "support"
+        ],
+        "phone": "09189997777"
+    },
+    {
+        "name": "Oscar Reyes",
+        "email": "oscar@crypto.ai",
+        "tags": [
+            "investor",
+            "business"
+        ],
+        "phone": "09181237654"
+    },
+    {
+        "name": "Pia Z.",
+        "email": "piaz@tutors.edu",
+        "tags": [
+            "school",
+            "tutor"
+        ],
+        "phone": "09191112222"
+    },
+    {
+        "name": "Quinn",
+        "email": "quinn@googlemail.com",
+        "tags": [
+            "friend",
+            "gaming"
+        ],
+        "phone": "09170000000"
+    },
+    {
+        "name": "Rico",
+        "email": "rico@yahoo.com",
+        "tags": [
+            "urgent",
+            "family"
+        ],
+        "phone": "09183336666"
+    },
+    {
+        "name": "Sara M.",
+        "email": "sara@startup.io",
+        "tags": [
+            "business",
+            "founder"
+        ],
+        "phone": "09171234512"
+    },
+    {
+        "name": "Tommy",
+        "email": "tommy@edu.ph",
+        "tags": [
+            "school"
+        ],
+        "phone": "09186665555"
+    },
+    {
+        "name": "Ursula",
+        "email": "ursula@",
+        "tags": [],
+        "phone": "000"
+    },
+    {
+        "name": "Vince",
+        "email": "vince@gmail.com",
+        "tags": [
+            "friend",
+            "music"
+        ],
+        "phone": "09189996666"
+    },
+    {
+        "name": "Will",
+        "email": "will@gmail.com",
+        "tags": [
+            "work",
+            "code"
+        ],
+        "phone": "09185554444"
+    }
+]

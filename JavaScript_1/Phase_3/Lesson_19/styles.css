@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+button {
+  margin: 0.5rem;
+  padding: 0.5rem 1.2rem;
+  font-size: 1.1rem;
+  transition: 0.3s ease;
+}
+
+#output {
+  font-size: 2rem;
+  color: #333;
+  margin-top: 1.2rem;
+  font-weight: bold;
+}

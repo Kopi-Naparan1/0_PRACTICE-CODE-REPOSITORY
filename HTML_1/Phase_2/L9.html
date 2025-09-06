@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nyro's Page</title>
+  </head>
+
+  <body>
+    <form action="/submit" method="POST">
+      <!--For Email-->
+      <label for="email">Email</label>
+      <input
+        type="email"
+        id="email"
+        name="email"
+        placeholder="MyEmail@gmail.com"
+        required
+      />
+
+      <label for="password">Password</label>
+      <!--For Password-->
+      <input
+        type="password"
+        id="password"
+        name="password"
+        placeholder="this_is_my_password"
+        minlength="8"
+        required
+      />
+
+      <fieldset>
+        <legend>Gender</legend>
+        <!--For Choosing gender: radio-->
+        <label><input type="radio" name="gender" value="male" />Male</label>
+        <label><input type="radio" name="gender" value="female" />Female</label>
+      </fieldset>
+
+      <label for="plan">Plan</label>
+      <!--For Choosing subscription plan: selecting-->
+      <select name="plan" id="plan">
+        <option value="free">Free</option>
+        <option value="free">Pro</option>
+      </select>
+
+      <button type="submit">Create Subscription</button>
+    </form>
+  </body>
+</html>

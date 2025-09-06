@@ -1,0 +1,765 @@
+{
+    "Highest Transaction": {
+        "name": "SM Appliance",
+        "amount": 8999,
+        "tags": [
+            "electronics",
+            "home"
+        ],
+        "notes": "Air fryer"
+    },
+    "Tags Usage Times": {
+        "food": 18,
+        "fastfood": 8,
+        "transport": 7,
+        "commute": 1,
+        "snacks": 10,
+        "health": 4,
+        "personal": 6,
+        "school": 4,
+        "supplies": 1,
+        "medicine": 1,
+        "shopping": 8,
+        "electronics": 7,
+        "home": 6,
+        "entertainment": 3,
+        "movies": 1,
+        "coffee": 9,
+        "work": 2,
+        "groceries": 7,
+        "clothing": 13,
+        "utilities": 9,
+        "internet": 1,
+        "electricity": 1,
+        "water": 1,
+        "subscription": 8,
+        "music": 3,
+        "topup": 6,
+        "transfer": 3,
+        "finance": 5,
+        "withdrawal": 3,
+        "tools": 4,
+        "office": 1,
+        "dining": 3,
+        "delivery": 7,
+        "cloud": 1,
+        "cheap": 1,
+        "grill": 1,
+        "thrift": 2,
+        "mobile": 2,
+        "pizza": 3,
+        "breakfast": 1,
+        "logistics": 1,
+        "dessert": 2,
+        "donuts": 1,
+        "sports": 4,
+        "fashion": 1,
+        "load": 1,
+        "bills": 2,
+        "yogurt": 1,
+        "drinks": 2,
+        "milk tea": 2,
+        "gifts": 1,
+        "parking": 1,
+        "decor": 1,
+        "ads": 1
+    },
+    "Transaction/s Exceeded $1000": [
+        {
+            "name": "Shopee",
+            "amount": 1200,
+            "tags": [
+                "shopping",
+                "electronics"
+            ],
+            "notes": "Phone charger"
+        },
+        {
+            "name": "Puregold",
+            "amount": 1250,
+            "tags": [
+                "groceries"
+            ],
+            "notes": "Weekly groceries"
+        },
+        {
+            "name": "Zalora",
+            "amount": 1899,
+            "tags": [
+                "clothing",
+                "shopping"
+            ],
+            "notes": "Shoes"
+        },
+        {
+            "name": "Merlaco",
+            "amount": 2200,
+            "tags": [
+                "utilities",
+                "electricity"
+            ],
+            "notes": "Monthly bill"
+        },
+        {
+            "name": "BPI Transfer",
+            "amount": 5000,
+            "tags": [
+                "transfer",
+                "finance"
+            ],
+            "notes": "Rent"
+        },
+        {
+            "name": "BDO ATM",
+            "amount": 2000,
+            "tags": [
+                "withdrawal"
+            ],
+            "notes": ""
+        },
+        {
+            "name": "Robinsons",
+            "amount": 1350,
+            "tags": [
+                "groceries"
+            ],
+            "notes": ""
+        },
+        {
+            "name": "Metrobank",
+            "amount": 4500,
+            "tags": [
+                "finance",
+                "transfer"
+            ],
+            "notes": "Allowance"
+        },
+        {
+            "name": "SM Appliance",
+            "amount": 8999,
+            "tags": [
+                "electronics",
+                "home"
+            ],
+            "notes": "Air fryer"
+        },
+        {
+            "name": "Maya Wallet",
+            "amount": 2000,
+            "tags": [
+                "finance",
+                "topup"
+            ],
+            "notes": "Wallet refill"
+        },
+        {
+            "name": "Toby's Sports",
+            "amount": 2150,
+            "tags": [
+                "sports",
+                "clothing"
+            ],
+            "notes": "Running shoes"
+        },
+        {
+            "name": "Uniqlo",
+            "amount": 1290,
+            "tags": [
+                "clothing"
+            ],
+            "notes": "T-shirt bundle"
+        },
+        {
+            "name": "SM Department Store",
+            "amount": 1300,
+            "tags": [
+                "shopping"
+            ],
+            "notes": "Slippers and umbrella"
+        },
+        {
+            "name": "Power Mac",
+            "amount": 1899,
+            "tags": [
+                "electronics"
+            ],
+            "notes": "Bluetooth speaker"
+        },
+        {
+            "name": "SM Supermarket",
+            "amount": 1150,
+            "tags": [
+                "groceries"
+            ],
+            "notes": "Monthly essentials"
+        },
+        {
+            "name": "BPI Online",
+            "amount": 3000,
+            "tags": [
+                "finance",
+                "transfer"
+            ],
+            "notes": "Tuition"
+        },
+        {
+            "name": "Robinsons Dept. Store",
+            "amount": 1400,
+            "tags": [
+                "clothing"
+            ],
+            "notes": ""
+        },
+        {
+            "name": "S&R",
+            "amount": 2900,
+            "tags": [
+                "groceries"
+            ],
+            "notes": "Bulk buy"
+        },
+        {
+            "name": "Zalora",
+            "amount": 1250,
+            "tags": [
+                "clothing"
+            ],
+            "notes": "Sneakers"
+        },
+        {
+            "name": "Globe Fiber",
+            "amount": 1699,
+            "tags": [
+                "utilities"
+            ],
+            "notes": "Internet"
+        },
+        {
+            "name": "PLDT",
+            "amount": 1499,
+            "tags": [
+                "utilities"
+            ],
+            "notes": ""
+        },
+        {
+            "name": "BDO Bills Pay",
+            "amount": 2500,
+            "tags": [
+                "bills"
+            ],
+            "notes": "Electricity"
+        },
+        {
+            "name": "Toy Kingdom",
+            "amount": 1200,
+            "tags": [
+                "gifts"
+            ],
+            "notes": "Nephew's birthday"
+        },
+        {
+            "name": "Nike Store",
+            "amount": 3250,
+            "tags": [
+                "clothing",
+                "sports"
+            ],
+            "notes": "Running shoes"
+        },
+        {
+            "name": "Adidas",
+            "amount": 3400,
+            "tags": [
+                "clothing",
+                "sports"
+            ],
+            "notes": ""
+        },
+        {
+            "name": "Maya Transfer",
+            "amount": 2000,
+            "tags": [
+                "finance"
+            ],
+            "notes": "To cousin"
+        },
+        {
+            "name": "Landers",
+            "amount": 1750,
+            "tags": [
+                "groceries"
+            ],
+            "notes": ""
+        },
+        {
+            "name": "SM Appliance",
+            "amount": 5600,
+            "tags": [
+                "electronics"
+            ],
+            "notes": "Electric fan"
+        },
+        {
+            "name": "Decathlon",
+            "amount": 1120,
+            "tags": [
+                "sports"
+            ],
+            "notes": "Gym bag"
+        },
+        {
+            "name": "GrabPay",
+            "amount": 1500,
+            "tags": [
+                "topup"
+            ],
+            "notes": "Preload"
+        },
+        {
+            "name": "Globe Telecom",
+            "amount": 1200,
+            "tags": [
+                "utilities"
+            ],
+            "notes": "Fiber"
+        },
+        {
+            "name": "BDO ATM",
+            "amount": 1500,
+            "tags": [
+                "withdrawal"
+            ],
+            "notes": ""
+        },
+        {
+            "name": "Landbank Bills",
+            "amount": 3600,
+            "tags": [
+                "bills"
+            ],
+            "notes": "Tuition"
+        },
+        {
+            "name": "Meralco",
+            "amount": 2900,
+            "tags": [
+                "utilities"
+            ],
+            "notes": ""
+        }
+    ],
+    "Transaction/s with Tag [electronics]": [
+        {
+            "name": "Shopee",
+            "amount": 1200,
+            "tags": [
+                "shopping",
+                "electronics"
+            ],
+            "notes": "Phone charger"
+        },
+        {
+            "name": "Lazada",
+            "amount": 899,
+            "tags": [
+                "shopping",
+                "home"
+            ],
+            "notes": "Kitchen tools"
+        },
+        {
+            "name": "Zalora",
+            "amount": 1899,
+            "tags": [
+                "clothing",
+                "shopping"
+            ],
+            "notes": "Shoes"
+        },
+        {
+            "name": "SM Department Store",
+            "amount": 1300,
+            "tags": [
+                "shopping"
+            ],
+            "notes": "Slippers and umbrella"
+        },
+        {
+            "name": "Shopee",
+            "amount": 600,
+            "tags": [
+                "shopping"
+            ],
+            "notes": "Screen protector"
+        },
+        {
+            "name": "TikTok Shop",
+            "amount": 289,
+            "tags": [
+                "shopping"
+            ],
+            "notes": "Beauty kit"
+        },
+        {
+            "name": "Lazada",
+            "amount": 990,
+            "tags": [
+                "shopping"
+            ],
+            "notes": "Power bank"
+        },
+        {
+            "name": "Shopee",
+            "amount": 890,
+            "tags": [
+                "shopping"
+            ],
+            "notes": "LED lamp"
+        }
+    ],
+    "Transaction/s Above $900": [
+        {
+            "name": "Shopee",
+            "amount": 1200,
+            "tags": [
+                "shopping",
+                "electronics"
+            ],
+            "notes": "Phone charger"
+        },
+        {
+            "name": "Puregold",
+            "amount": 1250,
+            "tags": [
+                "groceries"
+            ],
+            "notes": "Weekly groceries"
+        },
+        {
+            "name": "Zalora",
+            "amount": 1899,
+            "tags": [
+                "clothing",
+                "shopping"
+            ],
+            "notes": "Shoes"
+        },
+        {
+            "name": "Globe Telecom",
+            "amount": 999,
+            "tags": [
+                "utilities",
+                "internet"
+            ],
+            "notes": "Postpaid bill"
+        },
+        {
+            "name": "Merlaco",
+            "amount": 2200,
+            "tags": [
+                "utilities",
+                "electricity"
+            ],
+            "notes": "Monthly bill"
+        },
+        {
+            "name": "BPI Transfer",
+            "amount": 5000,
+            "tags": [
+                "transfer",
+                "finance"
+            ],
+            "notes": "Rent"
+        },
+        {
+            "name": "BDO ATM",
+            "amount": 2000,
+            "tags": [
+                "withdrawal"
+            ],
+            "notes": ""
+        },
+        {
+            "name": "Landers",
+            "amount": 980,
+            "tags": [
+                "groceries",
+                "home"
+            ],
+            "notes": "Snacks & cleaning"
+        },
+        {
+            "name": "Robinsons",
+            "amount": 1350,
+            "tags": [
+                "groceries"
+            ],
+            "notes": ""
+        },
+        {
+            "name": "Metrobank",
+            "amount": 4500,
+            "tags": [
+                "finance",
+                "transfer"
+            ],
+            "notes": "Allowance"
+        },
+        {
+            "name": "SM Appliance",
+            "amount": 8999,
+            "tags": [
+                "electronics",
+                "home"
+            ],
+            "notes": "Air fryer"
+        },
+        {
+            "name": "Maya Wallet",
+            "amount": 2000,
+            "tags": [
+                "finance",
+                "topup"
+            ],
+            "notes": "Wallet refill"
+        },
+        {
+            "name": "Toby's Sports",
+            "amount": 2150,
+            "tags": [
+                "sports",
+                "clothing"
+            ],
+            "notes": "Running shoes"
+        },
+        {
+            "name": "Uniqlo",
+            "amount": 1290,
+            "tags": [
+                "clothing"
+            ],
+            "notes": "T-shirt bundle"
+        },
+        {
+            "name": "H&M",
+            "amount": 999,
+            "tags": [
+                "clothing",
+                "fashion"
+            ],
+            "notes": ""
+        },
+        {
+            "name": "SM Department Store",
+            "amount": 1300,
+            "tags": [
+                "shopping"
+            ],
+            "notes": "Slippers and umbrella"
+        },
+        {
+            "name": "Power Mac",
+            "amount": 1899,
+            "tags": [
+                "electronics"
+            ],
+            "notes": "Bluetooth speaker"
+        },
+        {
+            "name": "SM Supermarket",
+            "amount": 1150,
+            "tags": [
+                "groceries"
+            ],
+            "notes": "Monthly essentials"
+        },
+        {
+            "name": "BPI Online",
+            "amount": 3000,
+            "tags": [
+                "finance",
+                "transfer"
+            ],
+            "notes": "Tuition"
+        },
+        {
+            "name": "BDO ATM",
+            "amount": 1000,
+            "tags": [
+                "withdrawal"
+            ],
+            "notes": "Cash"
+        },
+        {
+            "name": "Maya",
+            "amount": 1000,
+            "tags": [
+                "topup"
+            ],
+            "notes": "GCash load"
+        },
+        {
+            "name": "Robinsons Dept. Store",
+            "amount": 1400,
+            "tags": [
+                "clothing"
+            ],
+            "notes": ""
+        },
+        {
+            "name": "S&R",
+            "amount": 2900,
+            "tags": [
+                "groceries"
+            ],
+            "notes": "Bulk buy"
+        },
+        {
+            "name": "Zalora",
+            "amount": 1250,
+            "tags": [
+                "clothing"
+            ],
+            "notes": "Sneakers"
+        },
+        {
+            "name": "Globe Fiber",
+            "amount": 1699,
+            "tags": [
+                "utilities"
+            ],
+            "notes": "Internet"
+        },
+        {
+            "name": "PLDT",
+            "amount": 1499,
+            "tags": [
+                "utilities"
+            ],
+            "notes": ""
+        },
+        {
+            "name": "BDO Bills Pay",
+            "amount": 2500,
+            "tags": [
+                "bills"
+            ],
+            "notes": "Electricity"
+        },
+        {
+            "name": "Toy Kingdom",
+            "amount": 1200,
+            "tags": [
+                "gifts"
+            ],
+            "notes": "Nephew's birthday"
+        },
+        {
+            "name": "Nike Store",
+            "amount": 3250,
+            "tags": [
+                "clothing",
+                "sports"
+            ],
+            "notes": "Running shoes"
+        },
+        {
+            "name": "Adidas",
+            "amount": 3400,
+            "tags": [
+                "clothing",
+                "sports"
+            ],
+            "notes": ""
+        },
+        {
+            "name": "Puregold",
+            "amount": 980,
+            "tags": [
+                "groceries"
+            ],
+            "notes": "Midweek run"
+        },
+        {
+            "name": "Maya Transfer",
+            "amount": 2000,
+            "tags": [
+                "finance"
+            ],
+            "notes": "To cousin"
+        },
+        {
+            "name": "Landers",
+            "amount": 1750,
+            "tags": [
+                "groceries"
+            ],
+            "notes": ""
+        },
+        {
+            "name": "SM Appliance",
+            "amount": 5600,
+            "tags": [
+                "electronics"
+            ],
+            "notes": "Electric fan"
+        },
+        {
+            "name": "Decathlon",
+            "amount": 1120,
+            "tags": [
+                "sports"
+            ],
+            "notes": "Gym bag"
+        },
+        {
+            "name": "Lazada",
+            "amount": 990,
+            "tags": [
+                "shopping"
+            ],
+            "notes": "Power bank"
+        },
+        {
+            "name": "GrabPay",
+            "amount": 1500,
+            "tags": [
+                "topup"
+            ],
+            "notes": "Preload"
+        },
+        {
+            "name": "Globe Telecom",
+            "amount": 1200,
+            "tags": [
+                "utilities"
+            ],
+            "notes": "Fiber"
+        },
+        {
+            "name": "BDO ATM",
+            "amount": 1500,
+            "tags": [
+                "withdrawal"
+            ],
+            "notes": ""
+        },
+        {
+            "name": "Landbank Bills",
+            "amount": 3600,
+            "tags": [
+                "bills"
+            ],
+            "notes": "Tuition"
+        },
+        {
+            "name": "Meralco",
+            "amount": 2900,
+            "tags": [
+                "utilities"
+            ],
+            "notes": ""
+        }
+    ]
+}

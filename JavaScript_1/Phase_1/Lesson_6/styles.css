@@ -1,0 +1,49 @@
+html {
+  text-align: center;
+  padding: 2rem;
+  background: rgb(114, 234, 194);
+}
+
+body {
+  text-align: center;
+  padding: 2rem;
+  background: rgb(89, 195, 160);
+  border-radius: 2rem;
+}
+
+.score {
+  background: rgb(44, 191, 142);
+  border-radius: 2rem;
+  padding: 0.5rem;
+  color: aliceblue;
+}
+
+.getBtn {
+  background: rgb(44, 191, 142);
+  border-radius: 2rem;
+  padding: 0.5rem;
+  color: aliceblue;
+  box-shadow: 0 0 12px rgba(24, 148, 59, 0.4);
+  cursor: pointer;
+  transition: background 0.3 ease, box-shadow 0.3 ease;
+}
+
+.getBtn:hover {
+  background: rgb(44, 191, 73);
+  box-shadow: 0 0 20px rgba(44, 191, 140, 0.6);
+}
+
+@media (min-width: 768px) {
+  body {
+    font-size: 1.5rem;
+    margin-inline: auto;
+    padding: clamp(1rem, 3vw, 2rem);
+    font-size: clamp(1rem, 5vw, 3rem);
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    font-size: 2rem;
+  }
+}

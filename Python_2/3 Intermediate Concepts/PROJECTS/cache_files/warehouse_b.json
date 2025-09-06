@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Mouse",
+        "stock": 1,
+        "price": 1256,
+        "tags": [
+            "electronics",
+            "accessory"
+        ]
+    },
+    {
+        "name": "Mouse",
+        "stock": 14,
+        "price": 9774,
+        "tags": [
+            "electronics",
+            "accessory"
+        ]
+    },
+    {
+        "name": "Mouse",
+        "stock": 3,
+        "price": 3338,
+        "tags": [
+            "electronics",
+            "accessory"
+        ]
+    },
+    {
+        "name": "Desk Chair",
+        "stock": 7,
+        "price": 2461,
+        "tags": [
+            "furniture",
+            "office"
+        ]
+    },
+    {
+        "name": "Sticky Notes",
+        "stock": 11,
+        "price": 4798,
+        "tags": [
+            "stationery",
+            "office"
+        ]
+    },
+    {
+        "name": "Sticky Notes",
+        "stock": 0,
+        "price": 8996,
+        "tags": [
+            "stationery",
+            "office"
+        ]
+    },
+    {
+        "name": "Keyboard",
+        "stock": 4,
+        "price": 4985,
+        "tags": [
+            "electronics",
+            "accessory"
+        ]
+    },
+    {
+        "name": "Sticky Notes",
+        "stock": 4,
+        "price": 1836,
+        "tags": [
+            "stationery",
+            "office"
+        ]
+    },
+    {
+        "name": "Sticky Notes",
+        "stock": 0,
+        "price": 8925,
+        "tags": [
+            "stationery",
+            "office"
+        ]
+    },
+    {
+        "name": "Desk Lamp",
+        "stock": 15,
+        "price": 7112,
+        "tags": [
+            "electronics",
+            "furniture"
+        ]
+    }
+]

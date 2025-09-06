@@ -1,0 +1,10 @@
+[
+  {"name": "Henry Labrador", "email": "henry@startup.io", "tags": ["tech", "business"], "phone": "09175556666"},
+  {"name": "Isa Perez", "email": "isa_perez@gmail.com", "tags": ["work"], "phone": "09278889999"},
+  {"name": "Jake", "email": "jake@dev.net", "tags": ["code", "team"], "phone": "09181119999"},
+  {"name": "Karen Dy", "email": "karen@yahoo.com", "tags": ["marketing"], "phone": "09171234444"},
+  {"name": "Liam C.", "email": "liam@edu.ph", "tags": ["school", "alumni"], "phone": "09179998888"},
+  {"name": "Mike Drop", "email": "mike@", "tags": ["test"], "phone": "000"},
+  {"name": "Nina Ocampo", "email": "nina@gmail.com", "tags": ["family", "support"], "phone": "09189997777"},
+  {"name": "Oscar Reyes", "email": "oscar@crypto.ai", "tags": ["investor", "business"], "phone": "09181237654"}
+]

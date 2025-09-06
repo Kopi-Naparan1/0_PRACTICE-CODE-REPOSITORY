@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+  background: #f8f8f8;
+}
+
+#profile {
+  background: white;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1);
+}

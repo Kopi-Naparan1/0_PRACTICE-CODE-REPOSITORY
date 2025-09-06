@@ -1,0 +1,107 @@
+
+
+    
+    ==================================
+    SUMMARY
+    
+    
+MOST EXPENSIVE ITEM:
+
+    Mouse : $9774
+    
+    
+TAGS USAGE SUMMARY:
+
+    ____-electronics: 13 times
+____-accessory: 7 times
+____-furniture: 9 times
+____-office: 10 times
+____-stationery: 7 times
+____-school: 2 times
+____-paper: 2 times
+    
+    
+PRODUCTS WITH <5 STOCKS SUMMARY:
+
+    ____-Mouse
+____-Mouse
+____-Keyboard
+____-Sticky Notes
+____-Notebook
+____-Mouse
+____-Sticky Notes
+      
+    
+PRODUCTS UNDER $5000: 
+
+    ____-Desk Chair: $2052
+____-Sticky Notes: $3716
+____-Notebook: $3793
+____-Pen: $2122
+____-Printer Ink: $4012
+____-Desk Lamp: $3164
+____-Sticky Notes: $2162
+____-Mouse: $1256
+____-Mouse: $3338
+____-Desk Chair: $2461
+____-Sticky Notes: $4798
+____-Keyboard: $4985
+____-Sticky Notes: $1836
+____-Desk Chair: $3544
+____-Desk Lamp: $4857
+____-Keyboard: $2205
+____-Desk Lamp: $357
+____-Notebook: $4179
+____-Mouse: $2763
+____-Sticky Notes: $1067
+    
+    
+PRODUCTS UNDER 80 AVAILABLE STOCK/S:
+
+    ____-Mouse: 18 stock/s
+____-Desk Chair: 13 stock/s
+____-Sticky Notes: 14 stock/s
+____-Notebook: 14 stock/s
+____-Desk Chair: 9 stock/s
+____-Pen: 12 stock/s
+____-Printer Ink: 18 stock/s
+____-Desk Lamp: 19 stock/s
+____-Sticky Notes: 19 stock/s
+____-Mouse: 1 stock/s
+____-Mouse: 14 stock/s
+____-Mouse: 3 stock/s
+____-Desk Chair: 7 stock/s
+____-Sticky Notes: 11 stock/s
+____-Keyboard: 4 stock/s
+____-Sticky Notes: 4 stock/s
+____-Desk Lamp: 15 stock/s
+____-Desk Chair: 14 stock/s
+____-Desk Lamp: 20 stock/s
+____-Keyboard: 8 stock/s
+____-Pen: 16 stock/s
+____-Desk Lamp: 16 stock/s
+____-Notebook: 2 stock/s
+____-Mouse: 4 stock/s
+____-Desk Lamp: 7 stock/s
+____-Sticky Notes: 1 stock/s
+    
+    
+PRODUCTS WITH TAG: electronics:
+
+    ____-Mouse: $7346
+____-Printer Ink: $4012
+____-Desk Lamp: $3164
+____-Mouse: $1256
+____-Mouse: $9774
+____-Mouse: $3338
+____-Keyboard: $4985
+____-Desk Lamp: $7112
+____-Desk Lamp: $4857
+____-Keyboard: $2205
+____-Desk Lamp: $357
+____-Mouse: $2763
+____-Desk Lamp: $8543
+    
+
+    ================================
+    

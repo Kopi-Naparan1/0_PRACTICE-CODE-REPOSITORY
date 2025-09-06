@@ -1,0 +1,7 @@
+| Term                  | Definition                                   |
+| --------------------- | -------------------------------------------- |
+| Type Inference        | TypeScript guesses the type from context     |
+| Explicit Typing       | You manually declare the type                |
+| Implicit `any`        | When TS can't infer and assigns `any` — BAD  |
+| Function Param Typing | Must always be explicit                      |
+| Return Type Typing    | Best for shared logic, utilities, or clarity |

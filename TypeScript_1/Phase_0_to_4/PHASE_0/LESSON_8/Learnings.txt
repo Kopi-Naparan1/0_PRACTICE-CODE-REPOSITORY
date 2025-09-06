@@ -1,0 +1,6 @@
+| Term                   | Definition                                                    |
+| ---------------------- | ------------------------------------------------------------- |
+| Function Input Typing  | Adding types to function parameters (`(x: number)`)           |
+| Function Return Typing | Adding a type to what the function returns (`: number`)       |
+| Inference vs Explicit  | TS can infer return types, but being explicit improves safety |
+| Error Prevention       | TS catches wrong inputs or outputs **before runtime**         |

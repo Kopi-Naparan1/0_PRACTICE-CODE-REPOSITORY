@@ -1,0 +1,85 @@
+Absolutely! Here are four detailed intermediate Python assignments tailored to reinforce your understanding of functions, modules, standard library, functional programming, and more — just like your Smart File Manager CLI tool:
+
+📦 Project 1: Text File Analyzer CLI
+🧠 Concepts: Functions, *args/**kwargs, standard library, argparse, modules
+🎯 Goal: Create a CLI tool that analyzes a .txt file and reports stats like word count, line count, most frequent words, etc.
+✅ What to Do:
+	• Input: A .txt file path from the command line.
+	• Output: Display total words, lines, characters, and top 5 most common words.
+📂 Suggested Structure:
+textanalyzer/
+├── main.py
+├── analyzer.py
+└── utils.py
+📌 Expected Output:
+$ python main.py analyze --file sample.txt
+Lines: 42
+Words: 523
+Characters: 3120
+Top 5 Words:
+1. the (50x)
+2. and (30x)
+...
+
+🗂️ Project 2: JSON Data Cleaner
+🧠 Concepts: Dictionary handling, modules, exception handling, lambda, map/filter
+🎯 Goal: Process a JSON file (list of dictionaries) and clean/format its values.
+✅ What to Do:
+	• Input: JSON file with user profiles (e.g., name, age, email, is_active).
+	• Clean tasks:
+		○ Capitalize names.
+		○ Remove inactive users.
+		○ Ensure emails are lowercase.
+📂 Suggested Structure:
+jsoncleaner/
+├── main.py
+├── cleaner.py
+└── helpers.py
+📌 Expected Output:
+$ python main.py clean --file users.json
+✅ Cleaned 10 users.
+❌ Removed 2 inactive profiles.
+
+📊 Project 3: Expense Tracker (CSV)
+🧠 Concepts: File I/O, standard library (csv, datetime), map/reduce, lambda
+🎯 Goal: Track and summarize expenses saved in a .csv file.
+✅ What to Do:
+	• Input: CSV file with format Date, Category, Amount.
+	• Output:
+		○ Total spent per category.
+		○ Highest and lowest expenses.
+		○ Total spending this month.
+📂 Suggested Structure:
+expensetracker/
+├── main.py
+├── parser.py
+└── summary.py
+📌 Expected Output:
+$ python main.py report --file expenses.csv
+Total this month: ₱12,300
+Top Category: Food (₱5,400)
+Biggest Expense: ₱2,000 on 2025-05-15
+
+🧠 Project 4: Quiz Game Generator
+🧠 Concepts: Classes, JSON, random, custom modules, functions
+🎯 Goal: Create a quiz app that pulls questions from a JSON file and scores the user.
+✅ What to Do:
+	• Input: JSON file with question, options, correct_answer.
+	• Show 5 random questions.
+	• Score and give results at the end.
+📂 Suggested Structure:
+quizgame/
+├── main.py
+├── game.py
+└── question_loader.py
+📌 Expected Output:
+Question 1: What is the capital of France?
+a) Rome  b) Berlin  c) Paris  d) Madrid
+Your answer: c
+...
+Score: 4/5
+
+Would you like to start with one of them? I can walk you through building the first one step-by-step like we did with the Smart File Manager.
+
+From <https://chatgpt.com/c/682de0e3-89fc-800c-958f-9414c8b55b63>
+

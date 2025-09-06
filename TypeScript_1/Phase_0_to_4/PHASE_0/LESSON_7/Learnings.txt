@@ -1,0 +1,6 @@
+| Term                    | Definition                                                                   |
+| ----------------------- | ---------------------------------------------------------------------------- |
+| Object Type             | A blueprint for defining a shape of `{ key: value }` pairs                   |
+| Optional Property (`?`) | A key that may or may not be present                                         |
+| Use Case for `?`        | Optional form fields, feature flags, conditionally returned values from APIs |
+

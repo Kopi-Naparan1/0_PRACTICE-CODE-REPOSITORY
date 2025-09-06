@@ -1,0 +1,42 @@
+html {
+  text-align: center;
+  background: rgb(186, 226, 254);
+  align-items: center;
+}
+
+body {
+  background: rgb(130, 188, 230);
+  padding: 1rem;
+  border-radius: 2rem;
+}
+
+.input {
+  background: rgb(57, 143, 204);
+  padding: 0.2rem;
+  border-radius: 2rem;
+  color: white;
+}
+
+.button {
+  background: rgb(57, 143, 204);
+  padding: 0.5rem;
+  border-radius: 2rem;
+  color: white;
+  box-shadow: 0 0 5px rgba(28, 148, 234, 0.509);
+  transition: background 0.3s ease, box-shadow 0.3 ease;
+  cursor: pointer;
+}
+
+.button:hover {
+  background: rgb(80, 171, 236);
+  box-shadow: 0 0 20px rgba(48, 162, 243, 0.709);
+}
+
+@media (min-width: 768px) {
+  body {
+    font-size: 1.5rem;
+    margin-inline: auto;
+    padding: clamp(1rem, 3vw, 2rem);
+    font-size: clamp(1rem, 5vw, 3rem);
+  }
+}

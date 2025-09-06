@@ -1,0 +1,10 @@
+[
+  {"name": "Pia Z.", "email": "piaz@tutors.edu", "tags": ["school", "tutor"], "phone": "09191112222"},
+  {"name": "Quinn", "email": "quinn@googlemail.com", "tags": ["friend", "gaming"], "phone": "09170000000"},
+  {"name": "Rico", "email": "rico@yahoo.com", "tags": ["urgent", "family"], "phone": "09183336666"},
+  {"name": "Sara M.", "email": "sara@startup.io", "tags": ["business", "founder"], "phone": "09171234512"},
+  {"name": "Tommy", "email": "tommy@edu.ph", "tags": ["school"], "phone": "09186665555"},
+  {"name": "Ursula", "email": "ursula@", "tags": [], "phone": "000"},
+  {"name": "Vince", "email": "vince@gmail.com", "tags": ["friend", "music"], "phone": "09189996666"},
+  {"name": "Will", "email": "will@gmail.com", "tags": ["work", "code"], "phone": "09185554444"}
+]

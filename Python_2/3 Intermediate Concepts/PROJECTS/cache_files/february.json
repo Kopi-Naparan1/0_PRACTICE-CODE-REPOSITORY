@@ -1,0 +1,7 @@
+[
+    {"amount": 120, "category": "Food", "notes": "Lunch"},
+    {"amount": 300, "category": "Shopping", "notes": "Shoes"},
+    {"amount": 60, "category": "Transport", "notes": ""},
+    {"amount": 0, "category": "Entertainment", "notes": "Free pass"},
+    {"amount": "invalid", "category": "Food", "notes": "Error"}
+]

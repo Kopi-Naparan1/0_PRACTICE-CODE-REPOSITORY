@@ -1,0 +1,8 @@
+
+    Highest Purchase: $310 on shopping 
+               Notes: Clothes 
+    Total Spent:1615
+    
+        	
+- food: $405transport: $280entertainment: $220shopping: $610bills: $100
+    

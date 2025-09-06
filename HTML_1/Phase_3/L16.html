@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nyro</title>
+  </head>
+  <body>
+    <header></header>
+
+    <main>
+      <section id="login" aria-labelledby="Login Form">
+        <form>
+          <label for="email"> Email </label>
+          <input type="email" required />
+
+          <label for="password"> Password </label>
+          <input type="password" required />
+
+          <label for="submit">Submit</label>
+          <input type="submit" />
+        </form>
+      </section>
+
+      <section id="Message" aria-labelledby="Submit Message">
+        <form>
+          <label for="message">Send Message</label>
+          <textarea
+            id="message"
+            name="message"
+            placeholder="I will send a message now!"
+          ></textarea>
+          <label for="email"> Email </label>
+          <input type="email" name="email" autocomplete="email" required />
+
+          <input
+            type="text"
+            name="name"
+            placeholder="Myname"
+            autocomplete="name"
+          />
+          <label for="submit message">Submit Message</label>
+          <input type="submit" />
+        </form>
+      </section>
+
+      <section id="Payment" aria-labelledby="For payment opitons">
+        <form>
+          <legend>Payment Method</legend>
+
+          <label for="card">Card</label>
+          <input type="radio" name="Method" id="card" />
+
+          <label for="paypal">paypal</label>
+          <input type="radio" name="Method" id="paypal" />
+        </form>
+      </section>
+
+      <section>
+        <form novalidate></form>
+      </section>
+    </main>
+
+    <footer></footer>
+  </body>
+</html>

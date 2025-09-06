@@ -1,0 +1,19 @@
+type vs interface
+
+| Feature              | `interface`         | `type`                             |
+| -------------------- | ------------------- | ---------------------------------- |
+| Extending objects    | ✅ Easy (`extends`)  | ✅ With intersection (`&`)          |
+| Merging declarations | ✅ YES (auto-merges) | ❌ No (error on redefinition)       |
+| Union or tuple types | ❌ Not allowed       | ✅ YES                              |
+| Preferred for...     | Objects, classes    | Primitives, unions, advanced types |
+
+
+Use interface for object-like structures
+
+Use type when:
+
+You need unions ("admin" | "user")
+
+You want to combine multiple types
+
+You're not working with class-based systems

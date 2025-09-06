@@ -1,0 +1,7 @@
+[
+    {"amount": 150, "category": "Food", "notes": "Pizza"},
+    {"amount": 80, "category": "Transport", "notes": "Taxi"},
+    {"amount": "", "category": "Food", "notes": "Dinner"},
+    {"amount": 220, "category": "Entertainment", "notes": "Movie"},
+    {"amount": 45, "category": "Food", "notes": "Snacks"}
+]

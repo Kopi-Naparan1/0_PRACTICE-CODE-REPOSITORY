@@ -1,0 +1,53 @@
+html {
+  background: black;
+  text-align: center;
+  padding: 4rem;
+}
+
+body {
+  color: white;
+  background: rgb(64, 61, 61);
+  padding: 2rem;
+  border-radius: 40px;
+  box-shadow: 0 0 15px;
+}
+
+@media (min-width: 768px) {
+  body {
+    font-size: 1.5rem;
+    margin-inline: auto;
+    padding: clamp(1rem, 3vw, 2rem);
+    font-size: clamp(1rem, 5vw, 3rem);
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    font-size: 2rem;
+  }
+}
+
+footer {
+  padding-top: 50px;
+}
+
+.input {
+  border-radius: 8px;
+  border: none;
+  padding: 0.5rem;
+  background: rgb(215, 204, 204);
+}
+
+.check_type {
+  border-radius: 8px;
+  border: none;
+  padding: 0.5rem;
+  background: rgb(215, 204, 204);
+  cursor: pointer;
+  transition: background 0.3s ease, box-shadow 0.3s ease;
+}
+
+.check_type:hover {
+  background: rgb(214, 210, 210);
+  box-shadow: 0 0 20px rgba(212, 215, 212, 0.5);
+}

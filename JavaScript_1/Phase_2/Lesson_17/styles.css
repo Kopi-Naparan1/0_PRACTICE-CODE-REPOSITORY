@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+li {
+  padding: 6px;
+  margin: 5px 0;
+  background: #eee;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button.remove {
+  background: crimson;
+  color: white;
+  border: none;
+  padding: 4px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+}

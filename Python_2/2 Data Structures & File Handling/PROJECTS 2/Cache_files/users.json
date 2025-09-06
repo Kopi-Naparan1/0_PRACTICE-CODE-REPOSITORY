@@ -1,0 +1,16 @@
+{
+    "Alice": {
+        "name": "Alice",
+        "email": "alice@example.com",
+        "age": "30"
+    },
+    "Bob": {
+        "name": "Bob",
+        "email": "bob@example.com",
+        "age": "25"
+    },
+    "Charlie": {
+        "name": "Charlie",
+        "age": "28"
+    }
+}

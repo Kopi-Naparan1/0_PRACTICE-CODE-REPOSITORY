@@ -1,0 +1,8 @@
+| Type        | Use Case                     | Example                             |
+| ----------- | ---------------------------- | ----------------------------------- |
+| `string`    | Text, names, emails          | `"nyro"`                            |
+| `number`    | Durations, counts, prices    | `45`, `3.14`                        |
+| `boolean`   | Toggles, flags               | `true`, `false`                     |
+| `null`      | Explicitly “empty”           | `null`                              |
+| `undefined` | Not assigned yet             | `let x: number;`                    |
+| `any`       | TS gives up: disables checks | ❌ **Avoid** unless bridging with JS |

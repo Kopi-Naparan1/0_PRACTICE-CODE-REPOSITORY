@@ -1,0 +1,6 @@
+| Term        | Definition                                                   |
+| ----------- | ------------------------------------------------------------ |
+| `as`        | Type assertion: tells TS to treat a value as a specific type |
+| `unknown`   | A type-safe version of `any`, requires checking              |
+| `any`       | Turns off TS safety entirely                                 |
+| DOM Casting | Using `as` to declare element types in the DOM               |

@@ -1,0 +1,25 @@
+.container {
+  padding: 1rem;
+}
+
+.box {
+  background: #1e90ff;
+  color: white;
+  padding: 1rem;
+  font-size: 1rem;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .box {
+    font-size: 1.5rem;
+    background: rgb(0, 204, 44);
+  }
+}
+
+@media (min-width: 1024px) {
+  .box {
+    font-size: 2rem;
+    background: #99001c;
+  }
+}
